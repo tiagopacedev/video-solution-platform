@@ -25,7 +25,7 @@ Nivo offers a comprehensive video solution tailored for online content creators,
 Clone the repository:
 
 ```sh
-git clone https://github.com/tiagopacedev/delivery-app.git
+git clone 
 ```
 
 Install dependencies:
